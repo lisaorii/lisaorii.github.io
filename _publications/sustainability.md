@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/sustainability2020
 #venue:
 paperurl: 'https://www.mdpi.com/2071-1050/12/22/9458/htm'
-citation: 'Lisa Orii, Luis Alonso, Kent Larson [paper]
+citation: 'Lisa Orii, Luis Alonso, Kent Larson'
 ---
