@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages -->
 
-You can use the [editor on GitHub](https://github.com/lisaorii/lisaorii.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am fourth-year undergraduate at Wellesley College, studying Computer Science and Philosophy. I also studied at University of Oxford, Worcester College.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research objective is to execute technology-driven participatory action research to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. By extending theoretical frameworks to understanding how design and technology can engender social change, I aim to design technologies with and within oppressed groups to cultivate equity and self-determination.
 
 ### Markdown
 
