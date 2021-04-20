@@ -3,6 +3,5 @@ title: "Methodology for Establishing Well-Being Urban Indicators at the District
 collection: publications
 permalink: /publication/sustainability
 paperurl: 'https://www.mdpi.com/2071-1050/12/22/9458/htm'
-citation: 'Lisa Orii, Luis Alonso, Kent Larson'
+citation: 'Lisa Orii, Luis Alonso, Kent Larson [paper]
 ---
-[paper](paperurl)
