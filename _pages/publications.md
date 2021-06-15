@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [here](https://scholar.google.com/citations?user=q_IkAdgAAAAJ&hl=en&oi=sra){:target="_blank"}.
+You can find my publications [here](https://scholar.google.com/citations?user=q_IkAdgAAAAJ&hl=en&oi=sra){:target="_blank"}.
 
 
 
