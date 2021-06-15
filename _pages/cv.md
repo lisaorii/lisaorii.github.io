@@ -12,7 +12,7 @@ redirect_from:
 <!-- A PDF of my CV can be viewed [here](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf){:target="_blank"}. -->
 
 
-<!-- Education
+Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -59,4 +59,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
