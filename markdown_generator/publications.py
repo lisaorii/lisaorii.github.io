@@ -100,8 +100,6 @@ for row, item in publications.iterrows():
 
     md += "\n" + item.citation
 
-    md += "\n" + item.venue
-
     md_filename = os.path.basename(md_filename)
 
     with open("../_publications/" + md_filename, 'w') as f:

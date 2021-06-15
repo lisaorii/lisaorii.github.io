@@ -10,9 +10,11 @@ redirect_from:
 
 Hello!
 
-I am Lisa, a fourth-year undergraduate at Wellesley College, studying Computer Science and Philosophy. I also studied at University of Oxford, Worcester College. I am an incoming Ph.D. at the University of Washington Paul G. Allen School of Computer Science & Engineering.
+I am Lisa, an incoming Ph.D. student at the University of Washington Paul G. Allen School of Computer Science & Engineering.
 
-My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development).My research objective is to execute technology-driven participatory action research to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
+I graduated from Wellesley College, a historically women's liberal arts college, in June 2021. I double majored in Computer Science and Philosophy. I also studied abroad at the University of Oxford, Worcester College during my third year of undergraduate.
+
+My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to execute technology-driven participatory action research to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
 
 
 
