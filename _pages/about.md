@@ -17,6 +17,7 @@ I graduated from Wellesley College, a historically women's liberal arts college,
 My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to execute technology-driven participatory action research to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
 
 The first two years of my Ph.D. are funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
+
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。今後computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 <!-- Getting started
