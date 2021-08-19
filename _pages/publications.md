@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=q_IkAdgAAAAJ&hl=en&oi=sra).
+You can also find my articles on [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=qEfndNsAAAAJ).
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
