@@ -25,6 +25,7 @@ The first two years of my Ph.D. are funded by [The Funai Foundation for Informat
 * June 2021: Graduated from Wellesley College
 * May 2021: Attended my first (virtual) conference at CHI 21
 * Apr 2021: Committed to University of Washington CS Ph.D. program!
+* Nov 2020: Selected as a Grantee of Funai Overseas Scholarship for my Ph.D.
 
 
 <!-- Getting started
