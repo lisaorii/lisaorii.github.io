@@ -20,11 +20,11 @@ The first two years of my Ph.D. are funded by [The Funai Foundation for Informat
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
-# News
-* Our paper "Perceptions of Trucking Automation: Insights from the r/Truckers Community" was accepted to AutomotiveUI '21!
-* Graduated from Wellesley College
-* Attended my first (virtual) conference at CHI 21
-* Committed to University of Washington CS Ph.D. program!
+# Celebratory News
+* Aug 2021: Our paper "Perceptions of Trucking Automation: Insights from the r/Truckers Community" was accepted to AutomotiveUI '21!
+* June 2021: Graduated from Wellesley College
+* May 2021: Attended my first (virtual) conference at CHI 21
+* Apr 2021: Committed to University of Washington CS Ph.D. program!
 
 
 <!-- Getting started
