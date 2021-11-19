@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /curriculumvitae/
 
+  - title: "Research Projects"
+    url: /research/
+
   # - title: "Guide"
   #   url: /markdown/

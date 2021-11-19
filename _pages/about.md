@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -14,17 +14,18 @@ I am Lisa, an first year Ph.D. student at the University of Washington Paul G. A
 
 I graduated from Wellesley College, a historically women's liberal arts college, in June 2021. I double majored in Computer Science and Philosophy. I also studied at the University of Oxford, Worcester College during my third year of college.
 
-My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to execute technology-driven participatory action research to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
+My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
 
-The first two years of my Ph.D. are funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
+I am currently funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* Nov 2021: Our paper "Designing for Speech Practice Systems: How Does User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Speech?" was conditionally accepted to CHI 2022!
 * Sept 2021: Officially started my Ph.D.!
 * Aug 2021: Our paper "Perceptions of Trucking Automation: Insights from the r/Truckers Community" was accepted to AutomotiveUI '21!
 * June 2021: Graduated from Wellesley College
-* May 2021: Attended my first (virtual) conference at CHI 21
+* May 2021: Attended my first (virtual) conference at CHI 2021
 * Apr 2021: Committed to University of Washington CS Ph.D. program!
 * Nov 2020: Selected as a Grantee of Funai Overseas Scholarship for my Ph.D.
 
