@@ -10,8 +10,7 @@ author_profile: true
 I have led and engaged in research projects in various fields. Here are a few of my favorite ones! A full list of my research projects are in my [CV](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf).
 
 ## Sidewalk Accessibility and Social Inequity
-Exploring crowdsourced labeling datasets of sidewalks to examine the correlations between sidewalk accessibility and socio-demographics.
-
+Exploring crowdsourced labeling datasets of sidewalks to examine the correlations between sidewalk accessibility and socio-demographics. <br />
 Advised by *Professor Jon E. Froehlich* (University of Washington)
 
 ## Designing for Speech Practice Systems
@@ -21,6 +20,7 @@ Advised by *Professor Takuji Narumi* (University of Tokyo)
 
 ## Trucking and Automation
 Led a project that investigated truck drivers' perspectives on automation in the trucking industry.
+
 Advised by *Professor Orit Shaer* (Wellesley College)
 
 [Paper](https://doi.org/10.1145/3409118.3475154) in AutomotiveUI '21
