@@ -21,7 +21,7 @@ I am currently funded by [The Funai Foundation for Information Technology](https
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
-* Nov 2021: Our paper "Designing for Speech Practice Systems: How Does User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Speech?" was conditionally accepted to CHI 2022!
+* Nov 2021: Our paper "Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?" was conditionally accepted to CHI 2022!
 * Sept 2021: Officially started my Ph.D.!
 * Aug 2021: Our paper "Perceptions of Trucking Automation: Insights from the r/Truckers Community" was accepted to AutomotiveUI '21!
 * June 2021: Graduated from Wellesley College
