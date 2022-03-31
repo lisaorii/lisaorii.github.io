@@ -10,11 +10,11 @@ redirect_from:
 
 Hello!
 
-I am Lisa, an first year Ph.D. student at the University of Washington Paul G. Allen School of Computer Science & Engineering.
-
-I graduated from Wellesley College, a historically women's liberal arts college, in June 2021. I double majored in Computer Science and Philosophy. I also studied at the University of Oxford, Worcester College during my third year of college.
+I am Lisa, an first year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
 My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in issues related to gender, health, education, and accessibility.
+
+I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 I am currently funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
 
