@@ -12,7 +12,7 @@ Hello!
 
 I am Lisa, an first year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in exploring equitable technologies for healthcare in low-income and low-resource communities.
+My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in exploring equitable technologies in healthcare settings in low-income and low-resource communities.
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
