@@ -21,6 +21,7 @@ I am currently funded by [The Funai Foundation for Information Technology](https
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* June 2022: Helped organized and attended ICTD and ACM COMPASS 2022 at UW!
 * May 2022: Attended my first in-person conference (CHI) where I presented our paper!
 * Nov 2021: Our paper "Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?" was conditionally accepted to CHI 2022!
 * Sept 2021: Officially started my Ph.D.!
