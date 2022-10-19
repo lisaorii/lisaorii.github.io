@@ -10,9 +10,9 @@ redirect_from:
 
 Hello!
 
-I am Lisa, an first year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
+I am Lisa, an 2nd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research objective is to mitigate social and technical challenges faced by groups that are oppressed by their intersectional identities. I am especially interested in exploring equitable technologies in healthcare settings in low-income and low-resource communities.
+My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research interests are in designing technologies that support people who experience stigmatized health in low-income and low-resource communities.
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
@@ -21,6 +21,7 @@ I am currently funded by [The Funai Foundation for Information Technology](https
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks.
 * June 2022: Helped organized and attended ICTD and ACM COMPASS 2022 at UW!
 * May 2022: Attended my first in-person conference (CHI) where I presented our paper!
 * Nov 2021: Our paper "Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?" was conditionally accepted to CHI 2022!
