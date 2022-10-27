@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+Hello!👋
 
 I am Lisa, an 2nd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are HCI (human-computer interaction) and ICTD (information and communication technology for development). My research interests are in designing technologies that support people who experience stigmatized health in low-income and low-resource communities.
+My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in designing technologies that support people who experience stigmatized health in low-income and low-resource communities.
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
@@ -21,16 +21,15 @@ I am currently funded by [The Funai Foundation for Information Technology](https
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
-* Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks.
-* June 2022: Helped organized and attended ICTD and ACM COMPASS 2022 at UW!
-* May 2022: Attended my first in-person conference (CHI) where I presented our paper!
-* Nov 2021: Our paper "Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?" was conditionally accepted to CHI 2022!
-* Sept 2021: Officially started my Ph.D.!
-* Aug 2021: Our paper "Perceptions of Trucking Automation: Insights from the r/Truckers Community" was accepted to AutomotiveUI '21!
+* Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
+* June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
+* May 2022: Attended my first in-person conference at CHI 2022 where I presented our paper ["Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)!
+* Sept 2021: Officially started my Ph.D. at UW!
+* Sept 2021: Attended AutomotiveUI '21 and presented our paper ["Perceptions of Trucking Automation: Insights from the r/Truckers Community"](https://dl.acm.org/doi/pdf/10.1145/3409118.3475154)!
 * June 2021: Graduated from Wellesley College
 * May 2021: Attended my first (virtual) conference at CHI 2021
 * Apr 2021: Committed to University of Washington CS Ph.D. program!
-* Nov 2020: Selected as a Grantee of Funai Overseas Scholarship for my Ph.D.
+* Nov 2020: Selected as a Grantee of [Funai Overseas Scholarship](https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html)
 
 
 <!-- Getting started
