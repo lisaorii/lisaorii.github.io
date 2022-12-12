@@ -21,6 +21,7 @@ I am currently funded by [The Funai Foundation for Information Technology](https
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
 * Nov 2022: Selected for [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
 * Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
 * June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
