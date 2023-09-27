@@ -10,13 +10,14 @@ redirect_from:
 
 Hello!👋
 
-I am Lisa, an 2nd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
+I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in designing technologies that support people who experience stigmatized health in low-income and low-resource communities.
+My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in the global health + technology space, specifically examining the role and potential of mobile devices for enhancing healthcare quality and work practices in low- and middle-income countries (LMICs).
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
-I am currently funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
+I am currently funded by the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows).
+During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 

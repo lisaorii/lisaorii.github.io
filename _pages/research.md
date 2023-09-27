@@ -8,9 +8,15 @@ author_profile: true
 {% include base_path %}
 I have led and engaged in research projects in various fields. Here are a few of my favorite ones! A full list of my research projects are in my [CV](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf).
 
+## Mobile Devices for Health Protocols in LMICs
+&nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Caryl Feldacker* (University of Washington)  
+* Examining the potential for mobile devices to standardize health protocols in healthcare settings on low- and middle-income countries (LMICs). 
+
 ## Electronic HIV Data Security and Privacy in Malawi
-&nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* (University of Washington)  
+&nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Caryl Feldacker* (University of Washington)  
 * Leading the investigation of the perspectives of healthcare staff, HIV patients, and members of Malawi’s government to improve a mobile medical record system that supports HIV care in Malawi. Conducted fieldwork at HIV clinic in Malawi in Sept 2022.  
+* Paper conditionally accepted to CSCW 2024.
+* In process of submitting papers to HCI conferences and Global Health journals.
 
 ## Designing for Speech Practice Systems
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Takuji Narumi* (University of Tokyo)
