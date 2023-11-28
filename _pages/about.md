@@ -22,6 +22,7 @@ During 2021-2023, I was funded by [The Funai Foundation for Information Technolo
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
 * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
 * Nov 2022: Selected for [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
 * Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
