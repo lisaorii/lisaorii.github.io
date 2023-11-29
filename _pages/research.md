@@ -8,15 +8,14 @@ author_profile: true
 {% include base_path %}
 I have led and engaged in research projects in various fields. Here are a few of my favorite ones! A full list of my research projects are in my [CV](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf).
 
-## Mobile Devices for Health Protocols in LMICs
-&nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Caryl Feldacker* (University of Washington)  
-* Examining the potential for mobile devices to standardize health protocols in healthcare settings on low- and middle-income countries (LMICs). 
+## Mobile App for Contraceptive Education in Kenya
+&nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Elizabeth Harrington* (University of Washington)  
+* Designing a mobile application for contraceptive education and decision-support tailored to adolescent girls and young women in Kenya.
 
 ## Electronic HIV Data Security and Privacy in Malawi
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Caryl Feldacker* (University of Washington)  
 * Leading the investigation of the perspectives of healthcare staff, HIV patients, and members of Malawi’s government to improve a mobile medical record system that supports HIV care in Malawi. Conducted fieldwork at HIV clinic in Malawi in Sept 2022.  
 * Paper conditionally accepted to CSCW 2024.
-* In process of submitting papers to HCI conferences and Global Health journals.
 
 ## Designing for Speech Practice Systems
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Takuji Narumi* (University of Tokyo)
@@ -36,6 +35,6 @@ I have led and engaged in research projects in various fields. Here are a few of
 
 ## Monitoring the Health Ecosystem of Benin
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Danielle Wood* (MIT Media Lab)
-* Conducted mapping visualizations and analyses of vegetation data in Benin.
+* Mapped vegetation in Benin using satellite data and created visualizations.
 * Designed and engineered a low-cost water quality sensor kit to survey the health ecosystem in Benin. Programmed the microcontroller for data collection and wireless data transmission, and configured electrical and hardware components to extend the kit's lifespan. The kit was transferred to Benin and enabled scientists to mitigate the harms posed by the plant.
 * [Abstract](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/516235) in AGU Fall Meeting 2019
