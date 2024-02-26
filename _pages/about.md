@@ -12,19 +12,22 @@ Hello!👋
 
 I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in the global health + technology space, specifically examining the role and potential of mobile devices for enhancing healthcare quality and work practices in low- and middle-income countries (LMICs).
+My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in global health + technology, specifically examining the role and potential of mobile devices for enhancing healthcare quality and work practices in low- and middle-income countries (LMICs).
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
-I am currently funded by the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows).
+In 2022, I was selcted to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). 
+I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows).
 During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
+* Nov 2023: Paper accepted to CSCW 2024!
 * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
 * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
-* Nov 2022: Selected for [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
+* Nov 2022: Selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
 * Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
 * June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
 * May 2022: Attended my first in-person conference at CHI 2022 where I presented our paper ["Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)!
