@@ -12,17 +12,19 @@ Hello!👋
 
 I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/).
 
-My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in global health + technology, specifically examining the role and potential of mobile devices for enhancing healthcare quality and work practices in low- and middle-income countries (LMICs).
+My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in global health + technology, specifically examining and enhancing the role of mobile devices for healthcare delivery in low- and middle-income countries (LMICs).
 
 I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
 
-In 2022, I was selcted to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). 
+In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). 
 I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows).
 During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Celebratory News
+* Apr 2024: Going to fieldwork in Kenya!
+* Mar 2024: Paper accepted to CHI 2024!
 * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
 * Nov 2023: Paper accepted to CSCW 2024!
 * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
