@@ -30,21 +30,23 @@ During 2021-2023, I was funded by [The Funai Foundation for Information Technolo
 * Nov 2023: Paper accepted to CSCW 2024!
 
 <details closed>
-  <summary>more news!</summary>
+  <summary markdown="span">more news!</summary>
+  <div markdown=1>
   
-  - June 2023: Attended the <a href="https://www.quadfellowship.org/updates/2023-quad-fellowship-summit">Quad Fellowship Summit in Melbourne, Australia</a>>.
-  - Dec 2022: Selected to the inaugural cohort of the <a href="https://www.quadfellowship.org/quad-fellows">Quad Fellowship</a>>!
-  - Nov 2022: Selected to <a href="https://www.technologyreview.jp/l/innovators_jp/under35jp_2022?">MIT Technology Review Innovators Under 35 Japan</a>!
-  - Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
-  - June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
-  - May 2022: Attended my first in-person conference at CHI 2022 where I presented our paper <a href="https://dl.acm.org/doi/pdf/10.1145/3491102.3502093">"Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"</a>!
-  - Sept 2021: Officially started my Ph.D. at UW!
-  - Sept 2021: Attended AutomotiveUI '21 and presented our paper <a href="https://dl.acm.org/doi/pdf/10.1145/3409118.3475154">"Perceptions of Trucking Automation: Insights from the r/Truckers Community"</a>!
-  - June 2021: Graduated from Wellesley College
-  - May 2021: Attended my first (virtual) conference at CHI 2021
-  - Apr 2021: Committed to University of Washington CS Ph.D. program!
-  - Nov 2020: Selected as a Grantee of <a href="https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html">Funai Overseas Scholarship</a>
-
+  * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
+  * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
+  * Nov 2022: Selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
+  * Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
+  * June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
+  * May 2022: Attended my first in-person conference at CHI 2022 where I presented our paper ["Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)!
+  * Sept 2021: Officially started my Ph.D. at UW!
+  * Sept 2021: Attended AutomotiveUI '21 and presented our paper ["Perceptions of Trucking Automation: Insights from the r/Truckers Community"](https://dl.acm.org/doi/pdf/10.1145/3409118.3475154)!
+  * June 2021: Graduated from Wellesley College
+  * May 2021: Attended my first (virtual) conference at CHI 2021
+  * Apr 2021: Committed to University of Washington CS Ph.D. program!
+  * Nov 2020: Selected as a Grantee of [Funai Overseas Scholarship](https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html)
+  
+  </div>
 </details>
 
 
