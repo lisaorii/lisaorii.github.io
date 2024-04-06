@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=qEfndNsAAAAJ&hl=en&oi=sra).
 
 <sup>*</sup> Denotes equal authorship
-## Refereed Conference Publications
+## Peer-Reviewed Publications
 
 **Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [link](https://doi.org/10.1145/36139043642245)
 
@@ -20,10 +20,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Lisa Orii\***, Diana Tosca\*, Andrew Kun, and Orit Shaer. Perceptions of Trucking Automation: Insights from the r/Truckers Community. In *Proceedings of the 13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI’ 21)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3409118.3475154)
 
-Di Jin, Zhijing Jin, Joey Tianyi Zhou, **Lisa Orii**, and Peter Szolovits. Hooks in the Headline: Learning to Generate Headlines with Controlled Styles. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*. [PDF](https://aclanthology.org/2020.acl-main.456.pdf)
-
-## Journals
 **Lisa Orii**, Luis Alonso, Kent Larson. Methodology for Establishing Well-Being Urban Indicators at the District Level to be used on the CityScope Platform. Sustainability 2020, 12, 9458. [PDF](https://www.mdpi.com/2071-1050/12/22/9458/pdf)
+
+Di Jin, Zhijing Jin, Joey Tianyi Zhou, **Lisa Orii**, and Peter Szolovits. Hooks in the Headline: Learning to Generate Headlines with Controlled Styles. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*. [PDF](https://aclanthology.org/2020.acl-main.456.pdf)
 
 ## Workshop, Posters, Abstracts
 
