@@ -11,6 +11,11 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <sup>*</sup> Denotes equal authorship
 ## Refereed Conference Publications
+
+**Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [link](https://doi.org/10.1145/36139043642245)
+
+**Lisa Orii**, Caryl Feldacker, Hannock Tweya, Richard Anderson. eHealth Data Security and Privacy: Perspectives from Diverse Stakeholders in Malawi. In *Proc. ACM Hum.-Comput. Interact. (CSCW '24)* [link] (https://doi.org/10.1145/3637323)
+
 **Lisa Orii**, Nami Ogawa, Yuji Hatada, and Takuji Narumi. 2022. Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?. In *CHI Conference on Human Factors in Computing Systems (CHI ’22)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)
 
 **Lisa Orii\***, Diana Tosca\*, Andrew Kun, and Orit Shaer. Perceptions of Trucking Automation: Insights from the r/Truckers Community. In *Proceedings of the 13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI’ 21)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3409118.3475154)
