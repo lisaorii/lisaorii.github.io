@@ -29,7 +29,7 @@ During 2021-2023, I was funded by [The Funai Foundation for Information Technolo
 * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
 * Nov 2023: Paper accepted to CSCW 2024!
 
-<details open>
+<details closed>
   <summary>more news!</summary>
   
   * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
