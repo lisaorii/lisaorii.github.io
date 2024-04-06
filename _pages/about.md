@@ -22,17 +22,18 @@ During 2021-2023, I was funded by [The Funai Foundation for Information Technolo
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
-# Celebratory News
+# Celebratory News✨
+* Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
 * Apr 2024: Started my internship with [PATH](https://www.path.org/) and their [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
 * Apr 2024: Going to fieldwork in Kenya!
 * Mar 2024: Paper accepted to CHI 2024!
 * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
-* Nov 2023: Paper accepted to CSCW 2024!
 
 <details closed>
   <summary markdown="span">more news!</summary>
   <div markdown=1>
   
+  * Nov 2023: Paper accepted to CSCW 2024!
   * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
   * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
   * Nov 2022: Selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!

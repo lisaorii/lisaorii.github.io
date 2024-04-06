@@ -10,12 +10,13 @@ I have led and engaged in research projects in various fields. Here are a few of
 
 ## Mobile App for Contraceptive Education in Kenya
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Elizabeth Harrington* (University of Washington)  
-* Designing an Android application for contraceptive education and decision-support tailored to adolescent girls and young women in Kenya.
+* Designing an Android application that provides contraceptive education and decision-support tailored to adolescent girls and young women in Kenya.
 
 ## Electronic HIV Data Security and Privacy in Malawi
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Caryl Feldacker* (University of Washington)  
-* Leading the investigation of the perspectives of healthcare staff, HIV patients, and members of Malawi’s government to improve a mobile medical record system that supports HIV care in Malawi. Conducted fieldwork at HIV clinic in Malawi in Sept 2022.  
+* Led the investigation of the perspectives of healthcare staff, HIV patients, and members of Malawi’s government to improve a mobile medical record system that supports HIV care in Malawi. Conducted fieldwork at HIV clinic in Malawi in Sept 2022.  
 * Paper accepted to CSCW 2024.
+* Paper accepted to CHI 2024.
 
 ## Designing for Speech Practice Systems
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Takuji Narumi* (University of Tokyo)
