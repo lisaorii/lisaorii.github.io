@@ -26,7 +26,7 @@ During 2021-2023, I was funded by [The Funai Foundation for Information Technolo
 * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
 * Apr 2024: Started my internship with [PATH](https://www.path.org/) and their [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
 * Apr 2024: Going to fieldwork in Kenya!
-* Mar 2024: Paper accepted to CHI 2024!
+* Mar 2024: Paper accepted to CHI 2024: [Link to paper](https://arxiv.org/pdf/2404.04444.pdf)!
 * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
 
 <details closed>
