@@ -8,6 +8,17 @@ author_profile: true
 {% include base_path %}
 I have led and engaged in research projects in various fields. Here are a few of my favorite ones! A full list of my research projects are in my [CV](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf).
 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="../images/mara.png" alt="">
+  </div>
+  <div>
+    <h2>Mobile App for Contraceptive Education in Kenya</h2>
+    <p>Advised by <i>Professor Richard Anderson</i> and <i>Professor Elizabeth Harrington</i> (University of Washington)</p>
+    <li> * Designing an Android application that provides contraceptive education and decision-support tailored to adolescent girls and young women in Kenya.</li>
+  </div>
+</div>
+
 ## Mobile App for Contraceptive Education in Kenya
 &nbsp;&nbsp;&nbsp;&nbsp;Advised by *Professor Richard Anderson* and *Professor Elizabeth Harrington* (University of Washington)  
 * Designing an Android application that provides contraceptive education and decision-support tailored to adolescent girls and young women in Kenya.
