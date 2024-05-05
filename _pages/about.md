@@ -43,16 +43,19 @@ I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Sci
 
 
 # Celebratory News✨
+* Apr 2024: Received a Best Paper Honorable Mention for our [CHI 2024 paper](https://arxiv.org/pdf/2404.04444.pdf)!
+* Apr 2024: Our CSCW paper is published in PACM HCI journal [link to paper](https://dl.acm.org/doi/pdf/10.1145/3637323)!
 * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
-* Apr 2024: Started my internship with [PATH](https://www.path.org/) and their [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
+* Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
 * Apr 2024: Going to fieldwork in Kenya!
-* Mar 2024: Paper accepted to CHI 2024: [Link to paper](https://arxiv.org/pdf/2404.04444.pdf)!
-* Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
+
 
 <details closed>
   <summary markdown="span">more news!</summary>
   <div markdown=1>
-  
+
+  * Mar 2024: Paper accepted to CHI 2024: [Link to paper](https://arxiv.org/pdf/2404.04444.pdf)!
+  * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
   * Nov 2023: Paper accepted to CSCW 2024!
   * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
   * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
