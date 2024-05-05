@@ -14,7 +14,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [link](https://arxiv.org/pdf/2404.04444.pdf)
 
-**Lisa Orii**, Caryl Feldacker, Hannock Tweya, Richard Anderson. eHealth Data Security and Privacy: Perspectives from Diverse Stakeholders in Malawi. In *Proc. ACM Hum.-Comput. Interact. (CSCW '24)* [link] (https://doi.org/10.1145/3637323)
+**Lisa Orii**, Caryl Feldacker, Hannock Tweya, Richard Anderson. eHealth Data Security and Privacy: Perspectives from Diverse Stakeholders in Malawi. In *Proc. ACM Hum.-Comput. Interact. (CSCW '24)* [link](https://dl.acm.org/doi/pdf/10.1145/3637323)
 
 **Lisa Orii**, Nami Ogawa, Yuji Hatada, and Takuji Narumi. 2022. Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?. In *CHI Conference on Human Factors in Computing Systems (CHI ’22)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)
 
