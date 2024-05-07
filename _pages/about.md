@@ -44,7 +44,7 @@ I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Sci
 
 # Celebratory News✨
 * Apr 2024: Received a Best Paper Honorable Mention for our [CHI 2024 paper](https://arxiv.org/pdf/2404.04444.pdf)!
-* Apr 2024: Our CSCW paper is published in PACM HCI journal [link to paper](https://dl.acm.org/doi/pdf/10.1145/3637323)!
+* Apr 2024: Our CSCW paper is published in PACM HCI journal. Here is the [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)!
 * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
 * Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
 * Apr 2024: Going to fieldwork in Kenya!
