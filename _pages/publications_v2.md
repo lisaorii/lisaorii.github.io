@@ -12,7 +12,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <sup>*</sup> Denotes equal authorship
 ## Peer-Reviewed Publications
 
-**Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [link](https://arxiv.org/pdf/2404.04444.pdf)
+**Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245)
+🏅 Best Paper Honorable Mention
 
 **Lisa Orii**, Caryl Feldacker, Hannock Tweya, Richard Anderson. eHealth Data Security and Privacy: Perspectives from Diverse Stakeholders in Malawi. In *Proc. ACM Hum.-Comput. Interact. (CSCW '24)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)
 
