@@ -11,21 +11,21 @@ redirect_from:
 {% include base_path %}
 Hello!👋
 
-I am Lisa, an 3rd year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my Bachelor's from Wellesley College, where I double majored in Computer Science and Philosophy.
-
-
-<!-- My research interests are **HCI (human-computer interaction) and ICTD (information and communication technology for development)**. My research interests are in global health + technology, specifically examining and enhancing the role of mobile devices for healthcare delivery in low- and middle-income countries (LMICs). -->
+I am Lisa, an 4th year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Research
+
+My research interests are **technologies that support healthcare delivery in low- and middle-income countries.** 
+
 <div class = "row">
   <div class="column card-body text-center">
       <img class = "center images" src="images/global_health.png">
           <!-- <img class="center-block rounded-circle" src="assets/img/FATE_logo.png" alt="Participatory Design Logo" width="165" height="165"><br> -->
           <h3><b>Global Health</b></h3>
-          <p>I work with health researchers and the Ministry of Health to address pressing health challenges around the world.</p>
+          <p>I work with health researchers and the Ministries of Health to address pressing health challenges around the world.</p>
   </div>
   <div class="column card-body text-center">
       <img class = "center images" src="images/smartphone.png">

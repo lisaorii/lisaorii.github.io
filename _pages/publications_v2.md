@@ -12,6 +12,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <sup>*</sup> Denotes equal authorship
 ## Peer-Reviewed Publications
 
+Shaan Chopra, **Lisa Orii**, Katherine Juarez, Nussara Tieanklin, James Fogarty, and Sean A. Munson. 2024. Menopause Legacies: Designing to Record and Share Experiences of Menopause Across Generations. In *Proc.ACM Hum.-Comput. Interact. (CSCW 2024)*. 
+
 **Lisa Orii**, Caryl Feldacker, Jacqueline Madalitso Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, and Richard Anderson. 2024. HIV Client Perspectives on Digital Healthin Malawi. In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*. [PDF](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245)
 🏅 Best Paper Honorable Mention
 
