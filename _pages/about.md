@@ -11,21 +11,21 @@ redirect_from:
 {% include base_path %}
 Hello!👋
 
-I am Lisa, an 4th year Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
+I am Lisa, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Research
 
-My research interests are **technologies that support healthcare delivery in low- and middle-income countries.** 
+I research **human-centered mobile health technologies that support healthcare delivery in low- and middle-income countries.** 
 
 <div class = "row">
   <div class="column card-body text-center">
       <img class = "center images" src="images/global_health.png">
           <!-- <img class="center-block rounded-circle" src="assets/img/FATE_logo.png" alt="Participatory Design Logo" width="165" height="165"><br> -->
           <h3><b>Global Health</b></h3>
-          <p>I work with health researchers and the Ministries of Health to address pressing health challenges around the world.</p>
+          <p>I work with global health researchers and the Ministries of Health to address pressing health challenges around the world.</p>
   </div>
   <div class="column card-body text-center">
       <img class = "center images" src="images/smartphone.png">
@@ -43,17 +43,19 @@ My research interests are **technologies that support healthcare delivery in low
 
 
 # Celebratory News✨
-* Apr 2024: Received a Best Paper Honorable Mention for our [CHI 2024 paper](https://arxiv.org/pdf/2404.04444.pdf)!
-* Apr 2024: Our CSCW paper is published in PACM HCI journal. Here is the [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)!
-* Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
-* Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
-* Apr 2024: Going to fieldwork in Kenya!
+* Dec 2024: Became a PhD CANDIDATE!
+* Nov 2024: Presented our [paper at CSCW 2024](https://dl.acm.org/doi/pdf/10.1145/3637323)!
+* May 2024: Presented our Best Paper Honorable Mention [paper at CHI 2024](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245)!
 
 
 <details closed>
   <summary markdown="span">more news!</summary>
   <div markdown=1>
 
+  * Apr 2024: Our CSCW paper is published in PACM HCI journal. Here is the [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)!
+  * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
+  * Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
+  * Apr 2024: Conducted fieldwork in Kenya for research!
   * Mar 2024: Paper accepted to CHI 2024: [Link to paper](https://arxiv.org/pdf/2404.04444.pdf)!
   * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
   * Nov 2023: Paper accepted to CSCW 2024!

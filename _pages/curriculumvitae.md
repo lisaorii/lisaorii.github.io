@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my CV can be viewed [here](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV_public.pdf) (updated Sept 2024).
+A PDF of my CV can be viewed [here](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV_public.pdf) (updated Jan 2025).
