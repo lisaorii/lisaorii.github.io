@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Hello!👋
 
-I am Lisa, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
+I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 
 [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
@@ -43,6 +43,7 @@ I research **human-centered mobile health technologies that support healthcare d
 
 
 # Celebratory News✨
+* Jan 2025: Papers accepted to CHI 2025 and PLOS ONE!
 * Dec 2024: Became a PhD CANDIDATE!
 * Nov 2024: Presented our [paper at CSCW 2024](https://dl.acm.org/doi/pdf/10.1145/3637323)!
 * May 2024: Presented our Best Paper Honorable Mention [paper at CHI 2024](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245)!
