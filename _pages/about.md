@@ -37,6 +37,10 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     display: inline-flex;
     vertical-align: top;
     }
+    p {
+      margin: 0px;
+      padding: 0px;
+    }
   </style>
 </head>
 <div class="col-md-9">
@@ -44,7 +48,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
         <span class="date">Sept 2024 - Present</span>
     </div>
-    <p>University of Washington</p>
+    <p><i>University of Washington</i></p>
     <p>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</p>
 </div>
 <i class="material-icons">article</i>
@@ -55,7 +59,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
         <span class="date">May 2022 - Feb 2025</span>
     </div>
-    <p>University of Washington</p>
+    <p><i>University of Washington</i></p>
     <p>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</p>
 </div>
 <i class="material-icons">article</i>
@@ -72,7 +76,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
     </div>
-    <p>University of Tokyo</p>
+    <p><i>University of Tokyo</i></p>
     <p>Impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</p>
 </div>
 <i class="material-icons">article</i>
