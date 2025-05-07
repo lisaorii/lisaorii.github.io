@@ -12,7 +12,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <sup>*</sup> Denotes equal authorship
 ## Peer-Reviewed Publications
 
-**Lisa Orii**, Elizabeth K. Harrington, Serah Gitome, Nelson Kiprotich Cheruiyot, Elizabeth Anne Bukusi, Sandy Cheng, Ariel Fu, Khushi Khandelwal, Shrimayee Narasimhan, and Richard Anderson. 2025. Supporting Contraceptive Decision-Making in the Intermediated Pharmacy Setting in Kenya. Recently accepted to *Proceedings of the 2025CHI Conference on Human Factors in Computing Systems (CHI ‘25)*.
+**Lisa Orii**, Elizabeth K. Harrington, Serah Gitome, Nelson Kiprotich Cheruiyot, Elizabeth Anne Bukusi, Sandy Cheng, Ariel Fu, Khushi Khandelwal, Shrimayee Narasimhan, and Richard Anderson. 2025. Supporting Contraceptive Decision-Making in the Intermediated Pharmacy Setting in Kenya. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI ‘25)*. [PDF](https://dl.acm.org/doi/10.1145/3706598.3713508)
 
 **Lisa Orii**, Kate S. Wilson, Jacqueline Huwa, Christine Kiruthu-Kamamia, Odala Sande, Agness Thawani, Astrid Berner-Rodoreda, Evelyn Viola, Hannock Tweya, Petros Tembo, Wapu Masambuka, Richard Anderson, & Caryl Feldacker. 2025. “They gave us the right to choose.” A qualitative study of preferences for differentiated service delivery location among recipients of antiretroviral therapy at Lighthouse Trust in Lilongwe Malawi. In *PLOS ONE*. [PDF](https://doi.org/10.1371/journal.pone.0296531)
 

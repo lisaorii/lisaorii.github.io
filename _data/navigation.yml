@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /curriculumvitae/
 
-  - title: "Selected Research Projects"
-    url: /research/
+  # - title: "Selected Research Projects"
+  #   url: /research/
 
   - title: "Blog Posts [Japanese]"
     url: /posts/
