@@ -33,6 +33,10 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     .title .title {
       float: left;
     }
+    .material-icons{
+    display: inline-flex;
+    vertical-align: top;
+    }
   </style>
 </head>
 <div class="col-md-9">
