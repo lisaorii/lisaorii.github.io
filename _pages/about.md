@@ -24,42 +24,56 @@ I research human-centered mobile health technologies that support healthcare del
 &nbsp;&nbsp;&nbsp;&nbsp;
 Designed a novel mobile app that provides contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya. -->
 
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <style>
+    .item-title .date {
+      float: right;
+    }      
+    .title .title {
+      float: left;
+    }
+  </style>
+</head>
 <div class="col-md-9">
     <div class="item-title">
-        <span><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
-        <span>University of Washington</span>
+        <span class="title"><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
         <span class="date">Sept 2024 - Present</span>
     </div>
+    <p>University of Washington</p>
     <p>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</p>
 </div>
-<i class="bi bi-link-45deg"></i>
+<i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in CHI 2025</a>
 
 <div class="col-md-9">
     <div class="item-title">
-        <span><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
-        <span>University of Washington</span>
+        <span class="title"><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
         <span class="date">May 2022 - Feb 2025</span>
     </div>
+    <p>University of Washington</p>
     <p>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</p>
 </div>
-<i class="bi bi-link-45deg"></i>
+<i class="material-icons">article</i>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296531" target="_blank">Paper in PLOS ONE</a>
-<i class="bi bi-link-45deg"></i>
+&nbsp;&nbsp;
+<i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3637323" target="_blank">Paper in CSCW 2024</a>
-<i class="bi bi-link-45deg"></i>
+&nbsp;&nbsp;
+<i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3613904.3642245" target="_blank">Paper in CHI 2024</a>
 
 <div class="col-md-9">
     <div class="item-title">
-        <span><strong>Designing for Speech Practice Systems</strong></span>
-        <span>University of Tokyo</span>
+        <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
     </div>
+    <p>University of Tokyo</p>
     <p>Impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</p>
 </div>
-<i class="bi bi-link-45deg"></i>
+<i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a>
+
 
 
 <!--
