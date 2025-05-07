@@ -48,12 +48,8 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
         <span class="date">Sept 2024 - Present</span>
     </div>
-    <div class="affiliation">
-      <p><i>University of Washington</i></p>
-    </div>
-    <div class="description">
-      <p>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</p>
-    </div>
+    <span><i>University of Washington</i></spanp>
+    <span>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</span>
 </div>
 <i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in CHI 2025</a>
