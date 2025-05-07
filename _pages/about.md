@@ -49,6 +49,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="date">Sept 2024 - Present</span>
     </div>
     <span><i>University of Washington</i></span>
+    <br>
     <span>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</span>
 </div>
 <i class="material-icons">article</i>
@@ -59,8 +60,9 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
         <span class="date">May 2022 - Feb 2025</span>
     </div>
-    <p><i>University of Washington</i></p>
-    <p>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</p>
+    <span><i>University of Washington</i></span>
+    <br>
+    <span>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</span>
 </div>
 <i class="material-icons">article</i>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296531" target="_blank">Paper in PLOS ONE</a>
@@ -76,8 +78,9 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
     </div>
-    <p><i>University of Tokyo</i></p>
-    <p>Impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</p>
+    <span><i>University of Tokyo</i></span>
+    <br>
+    <span>Impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
 </div>
 <i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a>
