@@ -14,11 +14,11 @@ Hello!👋
 I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 
-[船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://www.funaifoundation.jp/scholarship/grantee_orii_lisa.html)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
+[船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://funaifoundation.jp/grantee.php?id=379&type=phd)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
 
 # Research
 
-I research human-centered mobile health technologies that support healthcare delivery in low- and middle-income countries.
+I research human-centered mobile health technologies that support healthcare delivery in low- and middle-income countries. Here are some projects I have worked on in the past few years.
 
 <!-- ## Mobile App for Contraceptive Education in Kenya
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,15 +75,28 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
 
 <div class="col-md-9">
     <div class="item-title">
+        <span class="title"><strong>Recording and Sharing Menopause Experiences</strong></span>
+        <span class="date">Jan 2022 - Nov 2024</span>
+    </div>
+    <span><i>University of Washington</i></span>
+    <br>
+    <span>Designs for digital and non-digital tools to record and share menopause experiences intergenerationally.</span>
+</div>
+<i class="material-icons">article</i>
+<a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in CSCW 2024</a>
+
+<div class="col-md-9">
+    <div class="item-title">
         <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
     </div>
     <span><i>University of Tokyo</i></span>
     <br>
-    <span>Impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
+    <span>Understanding the impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
 </div>
 <i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a>
+
 
 
 
