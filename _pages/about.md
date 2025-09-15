@@ -121,6 +121,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
 -->
 
 # Celebratory News✨
+* Sept 2025: Completed my research internship at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) in Japan!
 * Apr 2025: Presented our [paper at CHI 2025](https://dl.acm.org/doi/10.1145/3706598.3713508) at Yokohama, Japan! Also helped out as student volunteer!
 * Jan 2025: Papers accepted to CHI 2025 and PLOS ONE!
 * Dec 2024: Became a PhD CANDIDATE!
