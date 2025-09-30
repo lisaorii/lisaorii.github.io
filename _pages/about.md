@@ -11,14 +11,14 @@ redirect_from:
 {% include base_path %}
 Hello!👋
 
-I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Professor Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Quad Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). During 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
+I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Dr. Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). In 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
 
 
-[船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://funaifoundation.jp/grantee.php?id=379&type=phd)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！
+<!-- [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://funaifoundation.jp/grantee.php?id=379&type=phd)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！ -->
 
 # Research
 
-I research human-centered mobile health technologies that support healthcare delivery in low- and middle-income countries. Here are some projects I have worked on in the past few years.
+My research focuses on *digital health* that supports healthcare delivery in low- and middle-income countries. I used *qualitative and quantitative methods and human-centered design* to design, develop, and evaluate health technologies. I have worked on projects in sexual and reproductive health, mental health, maternal and newborn care, and HIV/AIDS. I partner with engineers, designers, and researchers in academia, industry, and NGOs to translate user insights into impactful, scalable technologies in real-world contexts. Here are some projects I have worked on in the past few years.
 
 <!-- ## Mobile App for Contraceptive Education in Kenya
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
         <span class="date">Sept 2024 - Present</span>
     </div>
-    <span><i>University of Washington</i></span>
+    <span><i>University of Washington and Kenya Medical Research Institute (KEMRI)</i></span>
     <br>
     <span>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</span>
 </div>
@@ -60,7 +60,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
         <span class="title"><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
         <span class="date">May 2022 - Feb 2025</span>
     </div>
-    <span><i>University of Washington</i></span>
+    <span><i>University of Washington and Lighthouse Trust</i></span>
     <br>
     <span>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</span>
 </div>
@@ -85,7 +85,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
 <i class="material-icons">article</i>
 <a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in CSCW 2024</a>
 
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
@@ -95,7 +95,7 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     <span>Understanding the impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a>
+<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a> -->
 
 
 
@@ -126,13 +126,13 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
 * Jan 2025: Papers accepted to CHI 2025 and PLOS ONE!
 * Dec 2024: Became a PhD CANDIDATE!
 * Nov 2024: Presented our [paper at CSCW 2024](https://dl.acm.org/doi/pdf/10.1145/3637323) at San Jose, Costa Rica!
-* May 2024: Presented our Best Paper Honorable Mention [paper at CHI 2024](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245) at Honolulu!
 
 
 <details closed>
   <summary markdown="span">more news!</summary>
   <div markdown=1>
 
+  * May 2024: Presented our Best Paper Honorable Mention [paper at CHI 2024](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245) at Honolulu!
   * Apr 2024: Our CSCW paper is published in PACM HCI journal. Here is the [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)!
   * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
   * Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!

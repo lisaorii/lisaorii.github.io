@@ -30,9 +30,9 @@ Shaan Chopra, **Lisa Orii**, Katherine Juarez, Nussara Tieanklin, James Fogarty,
 
 Di Jin, Zhijing Jin, Joey Tianyi Zhou, **Lisa Orii**, and Peter Szolovits. 2020. Hooks in the Headline: Learning to Generate Headlines with Controlled Styles. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL ‘20)*. [LINK](https://aclanthology.org/2020.acl-main.456/)
 
-## Workshop, Posters, Abstracts
+## Abstracts
 
-Chu Li, **Lisa Orii**, Mikey Saugstad, Stephen J. Mooney, Yochai Eisenberg, Delphine Labbé, Joy Hammel, Jon E. Froehlich. A Pilot Study of Sidewalk Equity in Seattle Using Crowdsourced Sidewalk Assessment Data. 2022. In *The Future of Urban Accessibility for People with Disabilities: Data Collection, Analytics, Policy, and Tools at The 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ‘22)*. [PDF](https://makeabilitylab.cs.washington.edu/media/publications/Li_APilotStudyOfSidewalkEquityInSeattleUsingCrowdsourcedSidewalkAssessmentData_URBANACCESS2022.pdf)
+<!-- Chu Li, **Lisa Orii**, Mikey Saugstad, Stephen J. Mooney, Yochai Eisenberg, Delphine Labbé, Joy Hammel, Jon E. Froehlich. A Pilot Study of Sidewalk Equity in Seattle Using Crowdsourced Sidewalk Assessment Data. 2022. In *The Future of Urban Accessibility for People with Disabilities: Data Collection, Analytics, Policy, and Tools at The 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ‘22)*. [PDF](https://makeabilitylab.cs.washington.edu/media/publications/Li_APilotStudyOfSidewalkEquityInSeattleUsingCrowdsourcedSidewalkAssessmentData_URBANACCESS2022.pdf) -->
 
 **Lisa Orii\***, Diana Tosca\*, Andrew Kun, and Orit Shaer. 2021. Perceptions on the Future of Automation in r/Truckers. 2021. In *Proceedings of CHI ‘21 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘21)*. [LINK](https://dl.acm.org/doi/pdf/10.1145/3411763.3451637)
 
