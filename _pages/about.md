@@ -50,7 +50,7 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
     <span>Led mixed methods research to define design guidelines for LLM-powered system that parsed user messages and generated context-aware responses for online peer mental support communication.
     </span>
 </div>
-<i class="material-icons">article</i>
+<!-- <i class="material-icons">article</i> -->
 <!-- <a href="XX" target="_blank">Paper in XX</a> -->
 
 <div class="col-md-9">
