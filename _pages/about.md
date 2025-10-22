@@ -11,18 +11,15 @@ redirect_from:
 {% include base_path %}
 Hello!👋
 
-I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Dr. Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows). In 2021-2023, I was funded by [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html). I received my B.A. from Wellesley College, where I double majored in Computer Science and Philosophy.
+I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Dr. Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). Previously, I interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) and [PATH](https://www.path.org/).
 
+**I am seeking full-time employment opportunities this year (2025-2026). Please feel free to contact me with any relevant opportunities, or if you want to learn more about my skills and experiences!**
 
-<!-- [船井情報科学振興財団](https://www.funaifoundation.jp/index.html)の奨学生です。[留学報告書](https://funaifoundation.jp/grantee.php?id=379&type=phd)を書いています。Computer scienceかinformation scienceの海外大学院を検討している方はぜひご覧ください！ -->
+In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) and received a 2-year fellowship from [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
+
 
 # Research
-
-My research focuses on *digital health* that supports healthcare delivery in low- and middle-income countries. I used *qualitative and quantitative methods and human-centered design* to design, develop, and evaluate health technologies. I have worked on projects in sexual and reproductive health, mental health, maternal and newborn care, and HIV/AIDS. I partner with engineers, designers, and researchers in academia, industry, and NGOs to translate user insights into impactful, scalable technologies in real-world contexts. Here are some projects I have worked on in the past few years.
-
-<!-- ## Mobile App for Contraceptive Education in Kenya
-&nbsp;&nbsp;&nbsp;&nbsp;
-Designed a novel mobile app that provides contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya. -->
+I research *digital health* primarily in low-resource settings. I use *qualitative and quantitative methods and human-centered design principles* to lead end-to-end development of technologies. My work has spanned multiple health domains, including sexual and reproductive health, mental health, maternal and newborn care, and HIV/AIDS. I partner with engineers, designers, and subject matter experts to translate user insights into actionable design recommendations, and to iteratively implement improvements. Below are recent projects.
 
 <head>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -45,15 +42,28 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
 </head>
 <div class="col-md-9">
     <div class="item-title">
-        <span class="title"><strong>Mobile App for Contraceptive Education in Kenya</strong></span>
+        <span class="title"><strong>AI-Mediated Communication for Peer Mental Health Support</strong></span>
+        <span class="date">June 2025 - Present</span>
+    </div>
+    <span><i>OMRON SINIC X Corporation, The University of Tokyo, Kyoto University</i></span>
+    <br>
+    <span>Led mixed methods research to define design guidelines for LLM-powered system that parsed user messages and generated context-aware responses for online peer mental support communication.
+    </span>
+</div>
+<i class="material-icons">article</i>
+<!-- <a href="XX" target="_blank">Paper in XX</a> -->
+
+<div class="col-md-9">
+    <div class="item-title">
+        <span class="title"><strong>App and Chatbots for Contraceptive Decision-Support in Kenya</strong></span>
         <span class="date">Sept 2024 - Present</span>
     </div>
     <span><i>University of Washington and Kenya Medical Research Institute (KEMRI)</i></span>
     <br>
-    <span>A novel mobile app for contraceptive decision-support tailored to adolescent girls and young women seeing contraceptive services in pharmacies in Kenya.</span>
+    <span>Led end-to-end development of an Android mobile app for contraceptive decision-support for young women in pharmacies in Kenya, based on insights from field research and ideation sessions, task analysis, and journey mapping with stakeholders. Currently leading efforts to explore chatbot integration.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in CHI 2025</a>
+<a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in ACM CHI 2025</a>
 
 <div class="col-md-9">
     <div class="item-title">
@@ -62,16 +72,16 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     </div>
     <span><i>University of Washington and Lighthouse Trust</i></span>
     <br>
-    <span>Improving security gaps and opportunities for a mobile medical record system for HIV care in Malawi.</span>
+    <span>Designed and executed qualitative study with stakeholders of Malawi’s HIV care program, identifying and presenting secure mobile data collection recommendations to program leadership.</span>
 </div>
+<i class="material-icons">article</i>
+<a href="https://dl.acm.org/doi/10.1145/3637323" target="_blank">Paper in ACM CSCW 2024</a>
+&nbsp;&nbsp;
+<i class="material-icons">article</i>
+<a href="https://dl.acm.org/doi/10.1145/3613904.3642245" target="_blank">Paper in ACM CHI 2024</a>
 <i class="material-icons">article</i>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296531" target="_blank">Paper in PLOS ONE</a>
 &nbsp;&nbsp;
-<i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3637323" target="_blank">Paper in CSCW 2024</a>
-&nbsp;&nbsp;
-<i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3613904.3642245" target="_blank">Paper in CHI 2024</a>
 
 <div class="col-md-9">
     <div class="item-title">
@@ -80,14 +90,14 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     </div>
     <span><i>University of Washington</i></span>
     <br>
-    <span>Designs for digital and non-digital tools to record and share menopause experiences intergenerationally.</span>
+    <span>Conducted co-design sessions to define design recommendations for digital and non-digital tools to record and share menopause experiences intergenerationally.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in CSCW 2024</a>
+<a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in ACM CSCW 2024</a>
 
-<!-- <div class="col-md-9">
+<div class="col-md-9">
     <div class="item-title">
-        <span class="title"><strong>Designing for Speech Practice Systems</strong></span>
+        <span class="title"><strong>Designs for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
     </div>
     <span><i>University of Tokyo</i></span>
@@ -95,30 +105,25 @@ Designed a novel mobile app that provides contraceptive decision-support tailore
     <span>Understanding the impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in CHI 2022</a> -->
+<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in ACM CHI 2022</a>
 
-
-
-
-<!--
-<div class = "row">
-  <div class="column card-body text-center">
-      <img class = "center images" src="images/global_health.png">
-          <h3><b>Global Health</b></h3>
-          <p>I work with global health researchers and the Ministries of Health to address pressing health challenges around the world.</p>
-  </div>
-  <div class="column card-body text-center">
-      <img class = "center images" src="images/smartphone.png">
-        <h3><b>Technology</b></h3>
-        <p>I examine, design, develop, and deploy mobile devices that can enable healthcare delivery.</p>
-  </div>
-  <div class="column card-body text-center">
-      <img class = "center images" src="images/human.png">
-          <h3><b>Human-Computer Interaction</b></h3>
-          <p>I apply HCI frameworks and methods to design, deploy, and improve technologies for global health.</p>
-  </div>
+# Education
+<div class="col-md-9">
+    <div class="item-title">
+        <span class="title"><strong>University of Washington</strong></span>
+        <span class="date">Sept 2021 - Jun 2026 (Expected)</span>
+    </div>
+    <span>Ph.D. in Computer Science & Engineering - Specialization: Human-Computer Interaction</span>
+    <span>Graduate Certificate in Global Health of Women, Adolescents, and Children</span>
 </div>
--->
+<div class="col-md-9">
+    <div class="item-title">
+        <span class="title"><strong>Wellesley College</strong></span>
+        <span class="date">Sept 2017 - Jun 2021</span>
+    </div>
+    <span>B.A. in Computer Science and Philosophy</span>
+</div>
+
 
 # Celebratory News✨
 * Sept 2025: Completed my research internship at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) in Japan!
