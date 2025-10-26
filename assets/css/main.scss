@@ -39,3 +39,194 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* --- Card container --- */
+.project {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  margin: 1.5em 0;
+  padding: 1em 1.2em;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.25s ease;
+}
+
+/* --- Hover effect for entire card --- */
+.project:hover {
+  background-color: #f9f9f9;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  transform: translateY(-3px);
+  cursor: pointer;
+}
+
+/* --- Image styling --- */
+.research__img {
+  width: 120px;
+  height: auto;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+/* --- Description section --- */
+.research__description a.project-link {
+  text-decoration: none !important;
+  color: #222;
+  font-weight: 700;
+  font-size: 1.35em;
+  line-height: 1.3;
+  transition: color 0.2s ease;
+}
+
+.research__description a.project-link:hover {
+  color: #007bff;
+  text-decoration: none !important;
+}
+
+
+/* --- Project link --- */
+.project-link {
+  display: inline-block;
+  color: #222;
+  font-weight: 700;
+  font-size: 1.35em;
+  line-height: 1.3;
+  text-decoration: none ;   /* remove underline completely */
+  transition: color 0.2s ease;
+}
+
+
+/* --- Responsive behavior (mobile) --- */
+@media (max-width: 600px) {
+  .paper {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .research__img {
+    width: 150px;
+    margin-bottom: 1em;
+  }
+}
+
+
+.project-meta {
+  background-color: #f8f9fa;
+  padding: 1em 1.5em;
+  border-left: 4px solid #007bff;
+  border-radius: 6px;
+  margin-bottom: 2em;
+}
+
+.project-meta ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.project-meta li {
+  margin-bottom: 0.3em;
+}
+
+section {
+  margin-bottom: 3em;
+}
+
+section h2 {
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.8em;
+}
+
+figure {
+  text-align: center;
+  margin: 2em 0;
+}
+
+figure img {
+  width: 80%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+.highlight-box {
+  background-color: #f2f6ff;
+  padding: 1.2em;
+  border-radius: 6px;
+  margin: 1.2em 0;
+  border-left: 4px solid #007bff;
+}
+
+.recommendations ul {
+  padding-left: 1em;
+}
+
+.recommendations li {
+  margin-bottom: 0.5em;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.footer-nav a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.video-row {
+  display: flex;
+  justify-content: center;  /* evenly distribute across row */
+  align-items: flex-start;
+  gap: 1em;                        /* space between videos */
+  flex-wrap: nowrap;               /* keep them on one row */
+  margin: 2em 0;
+}
+
+.video-item {
+  width: 20%;         /* each takes ~⅓ of row */
+  text-align: center; /* center the label */
+}
+
+.video-item p {
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  color: #333;
+  font-size: 0.95em;
+}
+.video-item video {
+  width: 100%;                     /* fill its container */
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
+/* Responsive layout for mobile */
+@media (max-width: 900px) {
+  .video-row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .video-item {
+    width: 100%;
+  }
+}

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hello!👋
+Hello!👋 
 
 I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Dr. Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). Previously, I interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) and [PATH](https://www.path.org/).
 
