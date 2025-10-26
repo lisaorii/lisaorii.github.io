@@ -99,7 +99,7 @@ author_profile: true
     </li>
   </ul>
 
-  <div class="carousel" id="carousel1">
+  <div class="carousel" id="carousel2">
     <figure class="active">
       <img src="/assets/images/mara_app/main.png" alt="Mara Divas app logo">
       <figcaption>Renamed the app “Mara Divas” to make it more fun and aspirational.</figcaption>
@@ -113,81 +113,41 @@ author_profile: true
       <figcaption>Updated character illustration to be more relatable to AGYW users.</figcaption>
     </figure>
   </div>
-  <div class="carousel-buttons" id="carousel1-buttons"></div>
-
+  <div class="carousel-buttons" id="carousel2-buttons"></div>
 </section>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const carousel = document.getElementById('carousel1');
-  const slides = carousel.querySelectorAll('figure');
-  const buttonsContainer = document.getElementById('carousel1-buttons');
+  // Find all carousels
+  const carousels = document.querySelectorAll('.carousel');
 
-  slides.forEach((_, i) => {
-    const btn = document.createElement('button');
-    btn.addEventListener('click', () => showSlide(i));
-    buttonsContainer.appendChild(btn);
+  carousels.forEach((carousel, index) => {
+    const slides = carousel.querySelectorAll('figure');
+    const buttonsContainer = document.getElementById(`carousel${index + 1}-buttons`);
+
+    // Skip if there's no button container (safety)
+    if (!buttonsContainer) return;
+
+    slides.forEach((_, i) => {
+      const btn = document.createElement('button');
+      btn.addEventListener('click', () => showSlide(i));
+      buttonsContainer.appendChild(btn);
+    });
+
+    const buttons = buttonsContainer.querySelectorAll('button');
+    let current = 0;
+
+    function showSlide(i) {
+      slides[current].classList.remove('active');
+      buttons[current].classList.remove('active');
+      current = i;
+      slides[current].classList.add('active');
+      buttons[current].classList.add('active');
+    }
+
+    // Initialize first slide
+    slides[0].classList.add('active');
+    buttons[0].classList.add('active');
   });
-
-  const buttons = buttonsContainer.querySelectorAll('button');
-  let current = 0;
-
-  function showSlide(index) {
-    slides[current].classList.remove('active');
-    buttons[current].classList.remove('active');
-    current = index;
-    slides[current].classList.add('active');
-    buttons[current].classList.add('active');
-  }
-
-  slides[0].classList.add('active');
-  buttons[0].classList.add('active');
 });
 </script>
-
-<style>
-  .carousel {
-  position: relative;
-  width: 60%;
-  margin: 2em auto;
-  overflow: hidden;
-  border-radius: 8px;
-}
-.carousel figure {
-  margin: 0;
-  display: none;
-  text-align: center;
-}
-.carousel figure.active {
-  display: block;
-}
-.carousel img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-.carousel figcaption {
-  text-align: center;
-  font-size: 0.9em;
-  color: #666;
-  margin-top: 0.5em;
-  font-style: italic;
-}
-.carousel-buttons {
-  text-align: center;
-  margin-top: 10px;
-}
-.carousel-buttons button {
-  border: none;
-  background-color: #ccc;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  margin: 4px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-.carousel-buttons button.active {
-  background-color: #666;
-}
-</style>

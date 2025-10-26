@@ -230,3 +230,47 @@ figcaption {
     width: 100%;
   }
 }
+.carousel {
+  position: relative;
+  width: 60%;
+  margin: 2em auto;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.carousel figure {
+  margin: 0;
+  display: none;
+  text-align: center;
+}
+.carousel figure.active {
+  display: block;
+}
+.carousel img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.carousel figcaption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+.carousel-buttons {
+  text-align: center;
+  margin-top: 10px;
+}
+.carousel-buttons button {
+  border: none;
+  background-color: #ccc;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.carousel-buttons button.active {
+  background-color: #666;
+}
