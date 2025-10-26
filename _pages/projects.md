@@ -15,6 +15,7 @@ author_profile: true
     <a href="/projects/kenya-contraceptive-app/" class="project-link">
       Chatbots for Sensitive Medical Contexts in Kenya
     </a>
+    <p>Dec 2024 – Present</p>
     <p>Speculative co-design to inform design guidelines for chatbot-supported contraceptive care for young women in Kenyan pharmacies.</p>
     <!-- <a href="https://dl.acm.org/doi/10.1145/3706598.3713508"
         target="_blank" rel="noopener noreferrer">
@@ -29,6 +30,7 @@ author_profile: true
     <a href="/projects/kenya-contraceptive-app/" class="project-link">
       Contraceptive Decision-Support App in Kenya
     </a>
+    <p>Jan 2024 – May 2025</p>
     <p>Iterative design and development of a contraceptive decision-support app for young women in Kenyan pharamcies, based on lessons from co-design.</p>
     <a href="https://dl.acm.org/doi/10.1145/3706598.3713508"
         target="_blank" rel="noopener noreferrer">
@@ -44,6 +46,7 @@ author_profile: true
     <a href="/projects/malawi-emr/" class="project-link">
       Secure Data Systems for HIV Care in Malawi
     </a>
+    <p>May 2022 – Nov 2024</p>
     <p>Qualitative investigation of diverse stakeholders' views towards digital data colletion and management at Malawi's HIV care program.</p>
     <div>
       <a href="https://dl.acm.org/doi/10.1145/3613904.3642245"
