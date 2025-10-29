@@ -16,9 +16,10 @@ author_profile: true
 
 <div class="project-meta">
   <ul>
-    <li>🎯 <strong>Roles:</strong> User Researcher, Software Engineer</li>
-    <li>🗓️ <strong>Timeline:</strong> Jan 2024 – May 2025</li>
-    <li>🧰 <strong>Tools:</strong> Figma, Miro, Mural, Flutter (Dart), ATLAS.ti</li>
+    <li><strong>Roles:</strong> Technical development lead</li>
+    <li><strong>Timeline:</strong> Jan 2024 – May 2025</li>
+    <li><strong>Methods:</strong> Android app development (Flutter), co-design workshop, journey mapping, ideation sessions, usability testing, thematic analysis</li>
+    <li><strong>Tools:</strong> Figma, Miro, Flutter (Dart), ATLAS.ti</li>
   </ul>
 </div>
 

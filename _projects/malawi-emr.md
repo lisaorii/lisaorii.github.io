@@ -21,9 +21,10 @@ author_profile: true
 
 <div class="project-meta">
   <ul>
-    <li>🎯 <strong>Role:</strong> User Researcher</li>
-    <li>🗓️ <strong>Timeline:</strong> May 2022 – Nov 2024</li>
-    <li>🧰 <strong>Tools:</strong> ATLAS.ti</li>
+    <li><strong>Role:</strong> Project lead</li>
+    <li><strong>Timeline:</strong> May 2022 – Nov 2024</li>
+    <li><strong>Methods:</strong> Fieldwork, interviews, focus groups, thematic analysis</li>
+    <li><strong>Tools:</strong> ATLAS.ti</li>
   </ul>
 </div>
 

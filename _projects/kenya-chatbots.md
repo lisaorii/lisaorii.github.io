@@ -19,9 +19,10 @@ author_profile: true
 
 <div class="project-meta">
   <ul>
-    <li>🎯 <strong>Role:</strong> User Researcher, Designer</li>
-    <li>🗓️ <strong>Timeline:</strong> Dec 2024 – Present</li>
-    <li>🧰 <strong>Tools:</strong> Figma, ATLAS.ti</li>
+    <li><strong>Role:</strong> Project lead, Designer, Workshop facilitator</li>
+    <li><strong>Timeline:</strong> Dec 2024 – Present</li>
+    <li><strong>Methods:</strong> Speculative design, co-design workshop, journey mapping, ideation sessions</li>
+    <li><strong>Tools:</strong> Figma, ATLAS.ti, OpenAI GPTs</li>
   </ul>
 </div>
 
