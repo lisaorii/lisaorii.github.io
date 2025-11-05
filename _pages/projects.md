@@ -17,10 +17,10 @@ author_profile: true
     </a>
     <p>Dec 2024 – Present</p>
     <p>Speculative co-design to inform design guidelines for chatbot-supported contraceptive care for young women in Kenyan pharmacies.</p>
-    <!-- <a href="https://dl.acm.org/doi/10.1145/3706598.3713508"
+    <a href="https://www.geekwire.com/2025/inside-the-uw-allen-school-six-grand-challenges-shaping-the-future-of-computer-science/"
         target="_blank" rel="noopener noreferrer">
-        <span>Paper in ACM CHI 2025</span>
-    </a> -->
+        <span>GeekWire article (Oct 2025)</span>
+    </a>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ author_profile: true
     <a href="/projects/kenya-contraceptive-app/" class="project-link">
       Contraceptive Decision-Support App in Kenya
     </a>
-    <p>Jan 2024 – May 2025</p>
+    <p>Sep 2023 – May 2025</p>
     <p>Iterative design and development of a contraceptive decision-support app for young women in Kenyan pharamcies, based on lessons from co-design.</p>
     <a href="https://dl.acm.org/doi/10.1145/3706598.3713508"
         target="_blank" rel="noopener noreferrer">

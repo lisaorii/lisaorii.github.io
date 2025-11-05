@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
@@ -9,17 +10,61 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hello!👋 
+<style>
+  .about-section p {
+    margin-bottom: 1.2em; /* adjust for more/less spacing */
+  }
+</style>
 
-I'm Lisa Orii, a Ph.D. candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am advised by Dr. Richard Anderson in the [ICTD Lab](https://ictd.cs.washington.edu/). Previously, I interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) and [PATH](https://www.path.org/).
+<div class="about-section">
+  <p>Hello!👋</p>
 
-**I am seeking full-time employment opportunities this year (2025-2026). Please feel free to contact me with any relevant opportunities, or if you want to learn more about my skills and experiences!**
+  <p>
+    I'm <strong>Lisa Orii</strong>, a Ph.D. candidate at the 
+    Paul G. Allen School of Computer Science &amp; Engineering 
+    at the University of Washington. 
+    I am advised by Dr. Richard Anderson in the 
+    <a href="https://ictd.cs.washington.edu/">ICTD Lab</a>. I have interned at 
+    <a href="https://www.omron.com/sinicx/en/">OMRON SINIC X Corporation</a> 
+    and <a href="https://www.path.org/">PATH</a>.
+  </p>
 
-In 2022, I was selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022). I am a Japanese Fellow for the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) and received a 2-year fellowship from [The Funai Foundation for Information Technology](https://www.funaifoundation.jp/english/english002.html).
+  <p>
+    <strong>
+      I am seeking full-time employment opportunities this year (2025–2026).
+      Please feel free to contact me with any relevant opportunities, or if you want to learn more about my skills and experiences!
+    </strong>
+  </p>
+
+  <p>
+    In 2022, I was selected to 
+    <a href="https://www.technologyreview.jp/l/innovators_jp/under35jp_2022">MIT Technology Review Innovators Under 35 Japan</a>. 
+    I am a Japanese Fellow for the inaugural cohort of the 
+    <a href="https://www.quadfellowship.org/quad-fellows">Quad Fellowship</a> 
+    and received a 2-year fellowship from 
+    <a href="https://www.funaifoundation.jp/english/english002.html">The Funai Foundation for Information Technology</a>.
+  </p>
+
+  <div style="margin-top: 2em;"></div>
 
 
-# Research
-I research *digital health* primarily in low-resource settings. I use *qualitative and quantitative methods and human-centered design principles* to lead end-to-end development of technologies. My work has spanned multiple health domains, including sexual and reproductive health, mental health, maternal and newborn care, and HIV/AIDS. I partner with engineers, designers, and subject matter experts to translate user insights into actionable design recommendations, and to iteratively implement improvements. Below are recent projects.
+  <h1>Research</h1>
+
+  <p>
+    I research <strong>digital health in resource-constrained settings</strong>, leveraging <strong>human-centered design principles</strong> to guide end-to-end development of technologies in real-world contexts. 
+    I apply <strong>qualitative and quantitative methods and participatory approaches</strong> to uncover user needs. I partner with designers, engineerns, and domain experts to translate user insights into actionable <strong>design recommendations for digital health integration</strong> into health systems.
+  </p>
+
+  <p>
+    My work has spanned multiple health domains, including 
+    sexual and reproductive health, 
+    mental health, 
+    maternal and newborn care, and 
+    HIV/AIDS. 
+  </p>
+
+  <p>Below are recent projects.</p>
+
 
 <head>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -40,35 +85,33 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
     }
   </style>
 </head>
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>AI-Mediated Communication for Peer Mental Health Support</strong></span>
-        <span class="date">June 2025 - Present</span>
+        <span class="date">Jun 2025 - Present</span>
     </div>
     <span><i>OMRON SINIC X Corporation, The University of Tokyo, Kyoto University</i></span>
     <br>
     <span>Led mixed methods research to define design guidelines for LLM-powered system that parsed user messages and generated context-aware responses for online peer mental support communication.
     </span>
 </div>
-<!-- <i class="material-icons">article</i> -->
-<!-- <a href="XX" target="_blank">Paper in XX</a> -->
 
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>App and Chatbots for Contraceptive Decision-Support in Kenya</strong></span>
-        <span class="date">Sept 2024 - Present</span>
+        <span class="date">Sep 2024 - Present</span>
     </div>
     <span><i>University of Washington and Kenya Medical Research Institute (KEMRI)</i></span>
     <br>
     <span>Led end-to-end development of an Android mobile app for contraceptive decision-support for young women in pharmacies in Kenya, based on insights from field research and ideation sessions, task analysis, and journey mapping with stakeholders. Currently leading efforts to explore chatbot integration.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in ACM CHI 2025</a>
+<a href="https://dl.acm.org/doi/10.1145/3706598.3713508" target="_blank">Paper in ACM CHI 2025</a> -->
 
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>Electronic HIV Data Security and Privacy in Malawi</strong></span>
-        <span class="date">May 2022 - Feb 2025</span>
+        <span class="date">May 2022 - Nov 2024</span>
     </div>
     <span><i>University of Washington and Lighthouse Trust</i></span>
     <br>
@@ -81,9 +124,9 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
 <a href="https://dl.acm.org/doi/10.1145/3613904.3642245" target="_blank">Paper in ACM CHI 2024</a>
 <i class="material-icons">article</i>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296531" target="_blank">Paper in PLOS ONE</a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>Recording and Sharing Menopause Experiences</strong></span>
         <span class="date">Jan 2022 - Nov 2024</span>
@@ -93,9 +136,9 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
     <span>Conducted co-design sessions to define design recommendations for digital and non-digital tools to record and share menopause experiences intergenerationally.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in ACM CSCW 2024</a>
+<a href="https://dl.acm.org/doi/10.1145/3686975" target="_blank">Paper in ACM CSCW 2024</a> -->
 
-<div class="col-md-9">
+<!-- <div class="col-md-9">
     <div class="item-title">
         <span class="title"><strong>Designs for Speech Practice Systems</strong></span>
         <span class="date">Mar 2020 - May 2022</span>
@@ -105,67 +148,189 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
     <span>Understanding the impact of listening to speech role models and voice manipulation on the self-perception of speech and voice.</span>
 </div>
 <i class="material-icons">article</i>
-<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in ACM CHI 2022</a>
+<a href="https://dl.acm.org/doi/10.1145/3491102.3502093" target="_blank">Paper in ACM CHI 2022</a> --> 
 
-# Education
-<div class="col-md-9">
-    <div class="item-title">
-        <span class="title"><strong>University of Washington</strong></span>
-        <span class="date">Sept 2021 - Jun 2026 (Expected)</span>
-    </div>
-    <span>Ph.D. in Computer Science & Engineering - Specialization: Human-Computer Interaction</span>
-    <span>Graduate Certificate in Global Health of Women, Adolescents, and Children</span>
-</div>
-<div class="col-md-9">
-    <div class="item-title">
-        <span class="title"><strong>Wellesley College</strong></span>
-        <span class="date">Sept 2017 - Jun 2021</span>
-    </div>
-    <span>B.A. in Computer Science and Philosophy</span>
-</div>
-
-
-# Celebratory News✨
-* Sept 2025: Completed my research internship at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) in Japan!
-* Apr 2025: Presented our [paper at CHI 2025](https://dl.acm.org/doi/10.1145/3706598.3713508) at Yokohama, Japan! Also helped out as student volunteer!
-* Jan 2025: Papers accepted to CHI 2025 and PLOS ONE!
-* Dec 2024: Became a PhD CANDIDATE!
-* Nov 2024: Presented our [paper at CSCW 2024](https://dl.acm.org/doi/pdf/10.1145/3637323) at San Jose, Costa Rica!
-
-
-<details closed>
-  <summary markdown="span">more news!</summary>
-  <div markdown=1>
-
-  * May 2024: Presented our Best Paper Honorable Mention [paper at CHI 2024](https://dl.acm.org/doi/pdf/10.1145/3613904.3642245) at Honolulu!
-  * Apr 2024: Our CSCW paper is published in PACM HCI journal. Here is the [PDF](https://dl.acm.org/doi/pdf/10.1145/3637323)!
-  * Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!
-  * Apr 2024: Started my internship with [PATH](https://www.path.org/) in [Digital Square](https://digitalsquare.org/) and Primary Health Care teams!
-  * Apr 2024: Conducted fieldwork in Kenya for research!
-  * Mar 2024: Paper accepted to CHI 2024: [Link to paper](https://arxiv.org/pdf/2404.04444.pdf)!
-  * Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app dev for contraceptive education in Kenya!
-  * Nov 2023: Paper accepted to CSCW 2024!
-  * June 2023: Attended the [Quad Fellowship Summit in Melbourne, Australia](https://www.quadfellowship.org/updates/2023-quad-fellowship-summit).
-  * Dec 2022: Selected to the inaugural cohort of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows)!
-  * Nov 2022: Selected to [MIT Technology Review Innovators Under 35 Japan](https://www.technologyreview.jp/l/innovators_jp/under35jp_2022)!
-  * Sept 2022: Conducted fieldwork research at a HIV clinic in Malawi for 2 weeks
-  * June 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!
-  * May 2022: Attended my first in-person conference at CHI 2022 where I presented our paper ["Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"](https://dl.acm.org/doi/pdf/10.1145/3491102.3502093)!
-  * Sept 2021: Officially started my Ph.D. at UW!
-  * Sept 2021: Attended AutomotiveUI '21 and presented our paper ["Perceptions of Trucking Automation: Insights from the r/Truckers Community"](https://dl.acm.org/doi/pdf/10.1145/3409118.3475154)!
-  * June 2021: Graduated from Wellesley College
-  * May 2021: Attended my first (virtual) conference at CHI 2021
-  * Apr 2021: Committed to University of Washington CS Ph.D. program!
-  * Nov 2020: Selected as a Grantee of [Funai Overseas Scholarship](https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html)
-  
+<div class="project" data-tags="mara-chatbot" onclick="window.location.href='/projects/kenya-chatbots/';">
+  <img class="research__img" src="/assets/images/chatbot/chatbot-cover.png" alt="Chatbot">
+  <div class="research__description">
+    <a href="/projects/kenya-contraceptive-app/" class="project-link">
+      Chatbots for Sensitive Medical Contexts in Kenya
+    </a>
+    <p>Dec 2024 – Present</p>
+    <p>Speculative co-design to inform design guidelines for chatbot-supported contraceptive care for young women in Kenyan pharmacies.</p>
+    <a href="https://www.geekwire.com/2025/inside-the-uw-allen-school-six-grand-challenges-shaping-the-future-of-computer-science/"
+        target="_blank" rel="noopener noreferrer">
+        <span>GeekWire article (Oct 2025)</span>
+    </a>
   </div>
-</details>
+</div>
+
+<div class="project" data-tags="mara-app" onclick="window.location.href='/projects/kenya-contraceptive-app/';">
+  <img class="research__img" src="/assets/images/mara_app/maradivas_logo.png" alt="MaraDIVAS logo">
+  <div class="research__description">
+    <a href="/projects/kenya-contraceptive-app/" class="project-link">
+      Contraceptive Decision-Support App in Kenya
+    </a>
+    <p>Sep 2023 – May 2025</p>
+    <p>Iterative design and development of a contraceptive decision-support app for young women in Kenyan pharamcies, based on lessons from co-design.</p>
+    <a href="https://dl.acm.org/doi/10.1145/3706598.3713508"
+        target="_blank" rel="noopener noreferrer">
+        <!-- <i class="fas fa-link"></i> -->
+        <span>Paper in ACM CHI 2025</span>
+    </a>
+  </div>
+</div>
+
+<div class="project" data-tags="malawi-emr" onclick="window.location.href='/projects/malawi-emr/';">
+  <img class="research__img" src="/assets/images/malawi_cover.jpg" alt="Malawi tablet">
+  <div class="research__description">
+    <a href="/projects/malawi-emr/" class="project-link">
+      Secure Data Systems for HIV Care in Malawi
+    </a>
+    <p>May 2022 – Nov 2024</p>
+    <p>Qualitative investigation of diverse stakeholders' views towards digital data colletion and management at Malawi's HIV care program.</p>
+    <div>
+      <a href="https://dl.acm.org/doi/10.1145/3613904.3642245"
+         target="_blank" rel="noopener noreferrer">
+        Paper in ACM CHI 2024  (Best Paper Honorable Mention)
+      </a>
+    </div>
+    <div>
+      <a href="https://dl.acm.org/doi/10.1145/3637323"
+         target="_blank" rel="noopener noreferrer">
+        Paper in ACM CSCW 2024
+      </a>
+    </div>
+    <div>
+      <a href="https://doi.org/10.1371/journal.pone.0296531"
+         target="_blank" rel="noopener noreferrer">
+        Paper in PLOS ONE
+      </a>
+    </div>
+  </div>
+</div>
 
 
-<style>
+
+
+<section id="education">
+  <h1>Education</h1>
+
+  <div class="col-md-9">
+    <div class="item-title">
+      <span class="title"><strong>University of Washington</strong></span>
+      <span class="date">Sep 2021 - Jun 2026 (Expected)</span>
+    </div>
+    <p>
+      Ph.D. in Computer Science &amp; Engineering – Specialization: Human-Computer Interaction<br>
+      Graduate Certificate in Global Health of Women, Adolescents, and Children
+    </p>
+  </div>
+
+  <div style="margin-top: 1em;"></div>
+
+  <div class="col-md-9">
+    <div class="item-title">
+      <span class="title"><strong>Wellesley College</strong></span>
+      <span class="date">Sep 2017 - Jun 2021</span>
+    </div>
+    <p>B.A. in Computer Science and Philosophy</p>
+  </div>
+</section>
+
+<div style="margin-top: 2em;"></div>
+
+<section id="celebratory-news">
+  <h1>Celebratory News ✨</h1>
+  <ul>
+    <li>Oct 2025: GeekWire wrote an 
+      <a href="https://www.geekwire.com/2025/inside-the-uw-allen-school-six-grand-challenges-shaping-the-future-of-computer-science/">
+        article
+      </a> 
+      featuring our work on designing chatbots for sensitive medical contexts!
+    </li>
+    <li>Sep 2025: Completed my research internship at 
+      <a href="https://www.omron.com/sinicx/en/">OMRON SINIC X Corporation</a> in Japan!
+    </li>
+    <li>Apr 2025: Presented our 
+      <a href="https://dl.acm.org/doi/10.1145/3706598.3713508">paper at CHI 2025</a> 
+      in Yokohama, Japan! Also helped out as student volunteer!
+    </li>
+    <li>Jan 2025: Papers accepted to CHI 2025 and PLOS ONE!</li>
+    <li>Dec 2024: Became a Ph.D. CANDIDATE!</li>
+  </ul>
+
+  <details>
+    <summary>more news!</summary>
+    <div>
+      <ul>
+        <li>Nov 2024: Presented our 
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3637323">paper at CSCW 2024</a> 
+          in San Jose, Costa Rica!
+        </li>
+        <li>May 2024: Presented our Best Paper Honorable Mention 
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642245">paper at CHI 2024</a> 
+          in Honolulu!
+        </li>
+        <li>Apr 2024: Our CSCW paper is published in PACM HCI journal. 
+          Here is the <a href="https://dl.acm.org/doi/pdf/10.1145/3637323">PDF</a>!
+        </li>
+        <li>Apr 2024: Awarded the Horton-Hallowell Fellowship from Wellesley College!</li>
+        <li>Apr 2024: Started my internship with 
+          <a href="https://www.path.org/">PATH</a> in 
+          <a href="https://digitalsquare.org/">Digital Square</a> 
+          and Primary Health Care teams!
+        </li>
+        <li>Apr 2024: Conducted fieldwork in Kenya for research!</li>
+        <li>Mar 2024: Paper accepted to CHI 2024: 
+          <a href="https://arxiv.org/pdf/2404.04444.pdf">Link to paper</a>!
+        </li>
+        <li>Jan 2024: Awarded a grant from the UW Global Innovation Fund for our work on app development for contraceptive education in Kenya!</li>
+        <li>Nov 2023: Paper accepted to CSCW 2024!</li>
+        <li>Jun 2023: Attended the 
+          <a href="https://www.quadfellowship.org/updates/2023-quad-fellowship-summit">
+            Quad Fellowship Summit in Melbourne, Australia
+          </a>.
+        </li>
+        <li>Dec 2022: Selected to the inaugural cohort of the 
+          <a href="https://www.quadfellowship.org/quad-fellows">Quad Fellowship</a>!
+        </li>
+        <li>Nov 2022: Selected to 
+          <a href="https://www.technologyreview.jp/l/innovators_jp/under35jp_2022">
+            MIT Technology Review Innovators Under 35 Japan
+          </a>!
+        </li>
+        <li>Sep 2022: Conducted fieldwork research at an HIV clinic in Malawi for 2 weeks.</li>
+        <li>Jun 2022: Helped organize and attended ICTD and ACM COMPASS 2022 at UW!</li>
+        <li>May 2022: Attended my first in-person conference at CHI 2022, where I presented our paper 
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3491102.3502093">
+            "Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?"
+          </a>
+        </li>
+        <li>Sep 2021: Officially started my Ph.D. at UW!</li>
+        <li>Sep 2021: Attended AutomotiveUI '21 and presented our paper 
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3409118.3475154">
+            "Perceptions of Trucking Automation: Insights from the r/Truckers Community"
+          </a>
+        </li>
+        <li>Jun 2021: Graduated from Wellesley College</li>
+        <li>May 2021: Attended my first (virtual) conference at CHI 2021</li>
+        <li>Apr 2021: Committed to University of Washington CS Ph.D. program!</li>
+        <li>Nov 2020: Selected as a Grantee of 
+          <a href="https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html">
+            Funai Overseas Scholarship
+          </a>
+        </li>
+      </ul>
+    </div>
+  </details>
+</section>
+
+
+<!-- <style>
 .column {
   float: left;
-  width: 33%;
+  width: 70%;
   padding: 10px; 
 }
 .text-center {
@@ -190,8 +355,8 @@ I research *digital health* primarily in low-resource settings. I use *qualitati
   .column {
     width: 100%;
   }
-}
-</style>
+} 
+</style>-->
 
 <!-- Getting started
 ======
