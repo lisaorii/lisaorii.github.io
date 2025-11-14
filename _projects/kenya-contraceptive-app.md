@@ -117,38 +117,5 @@ author_profile: true
   <div class="carousel-buttons" id="carousel2-buttons"></div>
 </section>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Find all carousels
-  const carousels = document.querySelectorAll('.carousel');
+<script src="{{ '/assets/js/carousel.js' | relative_url }}"></script>
 
-  carousels.forEach((carousel, index) => {
-    const slides = carousel.querySelectorAll('figure');
-    const buttonsContainer = document.getElementById(`carousel${index + 1}-buttons`);
-
-    // Skip if there's no button container (safety)
-    if (!buttonsContainer) return;
-
-    slides.forEach((_, i) => {
-      const btn = document.createElement('button');
-      btn.addEventListener('click', () => showSlide(i));
-      buttonsContainer.appendChild(btn);
-    });
-
-    const buttons = buttonsContainer.querySelectorAll('button');
-    let current = 0;
-
-    function showSlide(i) {
-      slides[current].classList.remove('active');
-      buttons[current].classList.remove('active');
-      current = i;
-      slides[current].classList.add('active');
-      buttons[current].classList.add('active');
-    }
-
-    // Initialize first slide
-    slides[0].classList.add('active');
-    buttons[0].classList.add('active');
-  });
-});
-</script>
