@@ -1,0 +1,194 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/about.css' | relative_url }}">
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
+  </header>
+
+  <article>
+    <div class="intro-section">
+
+  {% if page.profile %}
+    <div class="profile">
+      {% if page.profile.image %}
+        {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+
+        {% if page.profile.image_circular %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+        {% else %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+        {% endif %}
+
+        {% capture sizes %}
+          (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px,
+          (min-width: 576px) 30vw,
+          95vw
+        {% endcapture %}
+
+        {% include figure.liquid
+          loading="eager"
+          path=profile_image_path
+          class=profile_image_class
+          sizes=sizes
+          alt=page.profile.image
+          cache_bust=true
+        %}
+      {% endif %}
+
+      {% if page.profile.more_info %}
+        <div class="more-info">
+          {{ page.profile.more_info }}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="intro-text">
+    {{ content }}
+  </div>
+
+</div>
+
+    <!-- Updates -->
+    {% if page.announcements and page.announcements.enabled %}
+    <div class="section">
+      <h2 class="updates-heading">
+        <span>RECENT UPDATES</span>
+        <a href="{{ '/news/' | relative_url }}" class="go-to-url">
+          See all updates →
+        </a>
+      </h2>
+
+      {% include news.liquid limit=true %}
+    </div>
+  {% endif %}
+
+  <!-- Research -->
+  <div class="section">
+      <h2 class="updates-heading">
+        <h2 class="updates-heading">
+        <span>RECENT RESEARCH</span>
+        <a href="{{ '/publications/' | relative_url }}" class="go-to-url">
+          See all publications →
+        </a>
+        </h2>
+      </h2>
+
+      {% comment %} <h4>Human-Centered Technologies for Resource-Constrained Settings</h4> {% endcomment %}
+      {% comment %} <p>During my Ph.D., I partnered with researchers and practicioners in Kenya and Malawi to 
+        design, develop, implement, and evaluate digital technologies for clinical health contexts.
+        Through participatory methods such as co-design, interviews, focus group discussions, and usability testing, 
+        my team and I 
+      </p> {% endcomment %}
+
+      <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title fw-bold" style="font-size: 1.4rem;">
+            Digital Tools for Contraceptive Decision-Support in Kenya
+          </h5>
+          <div class="publications">
+            {% bibliography --group_by none --query @*[group=kenya]* %}
+          </div>
+        </div>
+      </div>
+
+      <div class="card mb-4 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title fw-bold" style="font-size: 1.4rem;">
+              Data Security for HIV Care in Malawi
+            </h5>
+            <div class="publications">
+              {% bibliography --group_by none --query @*[group=malawi]* %}
+            </div>
+          </div>
+      </div>
+
+      {% comment %} <div class="card mb-4 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title fw-bold" style="font-size: 1.4rem;">
+              Other Research
+            </h5>
+            <div class="publications">
+              {% bibliography --group_by none --query @*[group=other]* %}
+            </div>
+          </div>
+      </div> {% endcomment %}
+      
+  </div>
+
+    <!-- Selected papers -->
+    {% comment %} {% if page.selected_papers %}
+    <div class="section">
+        <h2 class="updates-heading">
+        <span>Selected publications</span>
+        <a href="{{ '/publications/' | relative_url }}" class="go-to-url">
+          See all publications →
+        </a>
+        </h2>
+
+        {% include selected_papers.liquid %}
+    </div>
+    {% endif %} {% endcomment %}
+
+        <!-- Education -->
+  
+    <div class="section">
+        <h2>EDUCATION</h2>
+
+        <div class="education-row">
+            <span><strong>University of Washington</strong></span>
+            <span>Sep 2021 - Jun 2026</span>
+        </div>
+
+        <p>
+            Ph.D. in Computer Science &amp; Engineering – Specialization: Human-Computer Interaction<br>
+            Graduate Certificate in Global Health of Women, Adolescents, and Children
+        </p>
+
+        <div class="education-row">
+            <span><strong>Wellesley College</strong></span>
+            <span>Sep 2017 - Jun 2021</span>
+        </div>
+
+        <p>
+            B.A. in Computer Science and Philosophy
+        </p>
+    </div>
+      
+
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% if site.plugins contains 'al_newsletter' %}
+        {% include plugins/al_newsletter_form_center_margin.liquid %}
+      {% else %}
+        {% include newsletter.liquid center=true %}
+      {% endif %}
+    {% endif %}
+  </article>
+</div>
+
+{% comment %} <style>
+  .projects {
+  padding-top: 15px;
+}
+</style> {% endcomment %}

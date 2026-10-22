@@ -944,7 +944,7 @@ The theme includes a powerful search functionality that can be customized in [\_
 ```yaml
 bib_search: true
 posts_in_search: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 ```
 

@@ -1,0 +1,205 @@
+
+/* Page title */
+.post-title {
+font-size: 3.5rem;
+font-weight: 700;
+}
+
+.desc {
+font-size: 1.2rem;
+}
+
+/* Intro: photo left, text right */
+.intro-section {
+display: flex;
+align-items: flex-start;
+gap: 40px;
+width: 100%;
+}
+
+
+.profile {
+flex: 0 0 30%;
+max-width: 30%;
+}
+
+.intro-text {
+flex: 1;
+min-width: 0;
+}
+
+/* =========================
+    Main homepage sections
+    ========================= */
+
+.section {
+width: 100%;
+margin: 0;
+padding: 0;
+}
+
+/* Controls spacing BETWEEN sections
+.section + .section {
+margin-top: 50px;
+} */
+
+/* Consistent spacing below all section headings */
+/* .section h2 {
+margin-top: 0;
+margin-bottom: 24px;
+} */
+
+/* Add grey line between sections */
+.section {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--global-divider-color, #e0e0e0);
+}
+.intro-section {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--global-divider-color, #e0e0e0);
+}
+
+/* Remove the grey line after the very last section */
+.section:last-of-type {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Remove extra bottom spacing from final element */
+.section > *:last-child {
+margin-bottom: 0 !important;
+}
+
+/* =========================
+    Education
+    ========================= */
+
+.education-row {
+display: flex;
+justify-content: space-between;
+width: 100%;
+}
+
+.education-row + p {
+margin-top: 4px;
+}
+
+.education-row ~ .education-row {
+margin-top: 24px;
+}
+
+.section p:last-child {
+margin-bottom: 0;
+}
+
+/* =========================
+    Section headings + buttons
+    ========================= */
+
+.updates-heading {
+display: flex;
+align-items: baseline;
+gap: 12px;
+}
+
+.go-to-url {
+font-size: 0.8rem;
+font-weight: 400;
+color: inherit;
+text-decoration: none;
+
+border: 1px solid currentColor;
+border-radius: 4px;
+padding: 3px 8px;
+}
+
+.go-to-url:hover {
+text-decoration: none;
+opacity: 0.7;
+}
+
+/* =========================
+    News
+    ========================= */
+
+.section .news,
+.section .news .table-responsive {
+margin: 0;
+padding: 0;
+}
+
+.section .news table {
+width: 100%;
+margin: 0;
+}
+
+/* Remove Bootstrap's left indentation */
+.section .news th,
+.section .news td {
+padding-left: 0 !important;
+}
+
+.section .news th {
+padding-right: 20px;
+}
+
+/* =========================
+    Publications
+    ========================= */
+
+.section .publications {
+margin: 0;
+padding: 0;
+}
+
+.section .publications ol.bibliography {
+margin: 0;
+padding: 0;
+}
+
+.section .publications .row {
+margin-left: 0;
+margin-right: 0;
+}
+
+.section .publications .col-sm-10,
+.section .publications .col-sm-12 {
+flex: 0 0 100%;
+max-width: 100%;
+padding-left: 0;
+padding-right: 0;
+}
+
+/* =========================
+    Mobile
+    ========================= */
+
+@media (max-width: 768px) {
+.intro-section {
+    flex-direction: column;
+}
+
+.profile {
+    max-width: 100%;
+    width: 100%;
+}
+
+.education-row {
+    flex-direction: column;
+}
+
+.updates-heading {
+    flex-wrap: wrap;
+}
+}
+
+.project-box {
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 8px;
+  padding: 1.5rem;
+  background-color: var(--global-bg-color);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}

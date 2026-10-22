@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Contraceptive Decision-Support App in Kenya
+description: Published in CHI 2025, PLOS Global Public Health
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+selected: true
 ---
 
 Every project has a beautiful feature showcase page.
