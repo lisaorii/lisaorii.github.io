@@ -31,8 +31,10 @@ I design, develop, implement, and evaluate human-centered technologies in real-w
 
 I received a Ph.D. in Computer Science &amp; Engineering from the University of Washington, where I was advised by Dr. Richard Anderson. I interned at [United Nations Human Rights](https://www.ohchr.org/en/ohchr_homepage), [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/), and [PATH](https://www.path.org/). I received a Bachelor of Arts in Computer Science and Philosophy from Wellesley College.
 
-  In have been awarded
+In have been awarded
     <a href="https://www.technologyreview.jp/l/innovators_jp/under35jp_2022">MIT Technology Review Innovators Under 35 Japan (2022)</a>, the 
     <a href="https://www.quadfellowship.org/quad-fellows">Quad Fellowship (2022)</a>, 
     and the
     <a href="https://www.funaifoundation.jp/english/english002.html">Funai Overseas Scholarship (2020)</a>.
+
+[You can find my CV here](https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf) (updated Sept 2026).
