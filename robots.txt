@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lisaorii-2.github.io/sitemap.xml
+Sitemap: https://lisaorii.github.io/sitemap.xml
