@@ -10,7 +10,8 @@ layout: default
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        {% comment %} {{ site.title }} {% endcomment %}
+          LISA ORII | 織井 理咲
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
@@ -45,6 +46,15 @@ layout: default
           cache_bust=true
         %}
       {% endif %}
+
+      {% comment %} Link Row Below Profile Image {% endcomment %}
+      <div class="profile-links text-center mt-2 mb-3">
+        <a href="https://docs.google.com/viewer?url=https://github.com/lisaorii/cv/raw/main/LisaOrii_CV.pdf">CV</a> | 
+        <a href="https://www.linkedin.com/in/lisa-orii/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+        <a href="https://scholar.google.com/citations?user=qEfndNsAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      </div>
+
+      
 
       {% if page.profile.more_info %}
         <div class="more-info">
